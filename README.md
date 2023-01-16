@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm Yacin Bahi!
+
+---
+<a href="https://www.linkedin.com/in/yacinbahi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yacc)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yacc/yacc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![My StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=368914&layout=compact)](https://stackoverflow.com/users/368914/yacc)
+
 -->
